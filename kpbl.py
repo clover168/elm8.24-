@@ -7,7 +7,6 @@ import time
 import requests
 from urllib.parse import quote
 
-const $ = new Env('饿了么卡皮巴拉');
 from requests import RequestException
 
 host = 'https://acs.m.goofish.com'
